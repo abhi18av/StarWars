@@ -1,0 +1,9 @@
+** ToDo
+
+Collect the data from Star Wars resources
+
+*** Resources
+
+- https://github.com/phalt/swapi/blob/master/resources/fixtures/species.json
+- https://github.com/evelinag/StarWars-social-network/tree/master/data
+
